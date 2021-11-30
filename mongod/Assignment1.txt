@@ -9,12 +9,12 @@ db.users.insert({"first_name":"Vishnu","last_name":"Dutta","email":"de0@nytimes.
 db.users.findOne()
 
 db.users.insertMany([{"first_name":"avinash","last_name":"Gupr","email":"bgodber1@ox.ac.uk","gender":"Non-binary","ip_address":"4.148.210.218","age":92},
-{"first_name":"Shaine","last_name":"Chatenet","email":"schatenet2@issuu.com","gender":"Genderfluid","ip_address":"141.184.255.178","age":35},
-{"first_name":"Shelley","last_name":"Stiller","email":"sstiller3@zdnet.com","gender":"Male","ip_address":"225.0.66.80","age":13},
-{"first_name":"Blake","last_name":"Wornum","email":"bwornum4@sohu.com","gender":"Male","ip_address":"252.122.3.225","age":74},
-{"first_name":"Carine","last_name":"Lamba","email":"clamba5@zimbio.com","gender":"Non-binary","ip_address":"43.179.219.208","age":1},
-{"first_name":"Caleb","last_name":"Motto","email":"cmotto6@aol.com","gender":"Male","ip_address":"202.172.150.69","age":65},
-{"first_name":"Paco","last_name":"Ferber","email":"pferber7@cyberchimps.com","gender":"Agender","ip_address":"236.38.84.251","age":32},
+{"first_name":"Abhi","last_name":"Chatenet","email":"schatenet2@issuu.com","gender":"Genderfluid","ip_address":"141.184.255.178","age":35},
+{"first_name":"Shweta","last_name":"mane","email":"sstiller3@zdnet.com","gender":"Male","ip_address":"225.0.66.80","age":13},
+{"first_name":"nhi","last_name":"mane","email":"bwornum4@sohu.com","gender":"Male","ip_address":"252.122.3.225","age":74},
+{"first_name":"dhiraj","last_name":"Lamba","email":"clamba5@zimbio.com","gender":"Non-binary","ip_address":"43.179.219.208","age":1},
+{"first_name":"gaurav","last_name":"gho","email":"cmotto6@aol.com","gender":"Male","ip_address":"202.172.150.69","age":65},
+{"first_name":"tejsh","last_name":"dutta","email":"pferber7@cyberchimps.com","gender":"Agender","ip_address":"236.38.84.251","age":32},
 {"first_name":"Aili","last_name":"Dhillon","email":"adhillon8@phoca.cz","gender":"Male","ip_address":"151.217.151.58","age":83},
 {"first_name":"Roger","last_name":"Onions","email":"ronions9@cornell.edu","gender":"Genderfluid","ip_address":"164.104.191.81","age":62}])
 
