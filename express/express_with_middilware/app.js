@@ -8,7 +8,7 @@ const books = require("./books.json");
 // app.use(express.json())
 
 const logger = (req, res, next) => {
-    req.name = "Akshaykumar";
+    req.name = "Gaurav";
     next()
 }
 
@@ -76,6 +76,6 @@ app.delete("/books/:id", (req, res) => {
 
 
 app.listen(1324, function(){
-    console.log("server running on port 1324 Assignment of 18_Nov_21")
+    console.log("server running on port 1324 Assignment")
 
 })
